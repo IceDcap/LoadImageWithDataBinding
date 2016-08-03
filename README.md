@@ -1,0 +1,1 @@
+http://icedcap.github.com/2016/08/03/loading-images-with-data-binding-and-picasso/
